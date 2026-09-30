@@ -1,0 +1,31 @@
+{
+  "name": "nextjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev --webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bioroid17/nomad-nextjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/bioroid17/nomad-nextjs/issues"
+  },
+  "homepage": "https://github.com/bioroid17/nomad-nextjs#readme",
+  "dependencies": {
+    "next": "^16.3.7",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "26.6.3",
+    "@types/react": "19.3.0",
+    "typescript": "7.0.2"
+  }
+}
