@@ -1,5 +1,4 @@
-import Link from "next/link";
-import { API_URL } from "../app/(home)/page";
+import { API_URL } from "../app/constant";
 import styles from "../styles/similar-movies.module.css";
 import Movie from "./movie";
 
